@@ -72,3 +72,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneToLoad: Puzzleroom1
+  playerPosition: {x: -3.5, y: -9.5}
+  playerStorage: {fileID: 0}
